@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio projects to make an impact<br>🌱 I’m currently learning new things<br>💬 Ask me about anything really<br>
+🔭 I’m currently working on portfolio projects to make an impact<br>🌱 I’m currently learning new things<br>💬 Ask me about Python, SQL<br>
 
 
 ## 🌐 Socials:
