@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio projects to make an impact<br>🌱 I’m currently learning new things<br>💬 Ask me about Python, SQL<br>
+• Expertise in Software Engineering: Specialize in Python development with a focus on backend architecture.<br>
+• Web Application Proponent: Craft robust web applications optimized for performance and scalability.<br>
+• Database Aficionado: Experienced in database solutions, leveraging the power of SQL for efficient data management.<br>
+• Ionian University Alumnus: Hold a Bachelor's degree in Informatics from the Department of Informatics at Ionian University.<br>
+• Tech Stack Proficiency: Skilled in Python, Django, and SQL, blending academic knowledge with hands-on application.<br>
 
 
 ## 🌐 Socials:
